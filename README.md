@@ -13,7 +13,7 @@ A modern, animated, high-converting redesign of the Tulas International School h
 - **Styling:** Tailwind CSS v3
 - **Animations:** Framer Motion
 - **Icons:** Lucide React
-- **Deployment:** Vercel / Netlify
+- **Deployment:** Vercel
 
 ## Standout Features Implemented
 
