@@ -4,8 +4,8 @@ A modern, animated, high-converting redesign of the Tulas International School h
 
 ## Live Demo
 
-- **Live URL:** [Insert Vercel / Netlify Link Here]
-- **Repository:** [Insert GitHub Repo Link Here]
+- **Live URL:** [https://tis-homepage-redesign.vercel.app](https://tis-homepage-redesign.vercel.app)
+- **Repository:** [https://github.com/Gursharan-Reddy/tis-homepage-redesign](https://github.com/Gursharan-Reddy/tis-homepage-redesign)
 
 ## Tech Stack
 
