@@ -32,7 +32,7 @@ A modern, animated, high-converting redesign of the Tulas International School h
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/tis-homepage-redesign.git
+git clone https://github.com/Gursharan-Reddy/tis-homepage-redesign
 cd tis-homepage-redesign
 ```
 
